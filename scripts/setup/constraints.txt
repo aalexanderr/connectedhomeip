@@ -24,7 +24,7 @@ beautifulsoup4==4.11.2
     # via mbed-os-tools
 bflb-crypto-plus==1.0
     # via bflb-iot-tool
-bflb-iot-tool==1.8.3
+bflb-iot-tool==1.8.6
     # via -r requirements.bouffalolab.txt
 bitstring==3.1.9
     # via -r requirements.esp32.txt
